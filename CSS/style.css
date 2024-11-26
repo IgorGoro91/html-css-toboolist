@@ -22,7 +22,10 @@ header{
     font-weight: 800;
     vertical-align: middle
 }
-
+.freccia{
+    font-size: 30px;
+    
+}
 
 .quadrato{
     width: 1000px;
@@ -31,13 +34,6 @@ header{
     margin: 2px auto 50px;
     border-radius: 0 0 7px 7px;
     padding: 20px 50px;
-}
-.freccia{
-    font-size: 30px;
-    
-    
-    
-    
 }
 .sigla{
     font-size: 30px;
