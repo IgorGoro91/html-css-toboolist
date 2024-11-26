@@ -26,11 +26,18 @@ header{
 
 .quadrato{
     width: 1000px;
-    height: 800px;
+    height: 650px;
     background-color: white;
     margin: 2px auto 50px;
     border-radius: 0 0 7px 7px;
     padding: 20px 50px;
+}
+.freccia{
+    font-size: 30px;
+    
+    
+    
+    
 }
 .sigla{
     font-size: 30px;
@@ -82,7 +89,7 @@ header{
     color: white;
 }
 .riga{
-    margin:0 0 20px ;
+    margin:0 0 15px ;
 }
 
 
