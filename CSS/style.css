@@ -31,7 +31,10 @@ header{
     margin: 2px auto 50px;
     border-radius: 0 0 7px 7px;
     padding: 20px 50px;
-
+}
+.sigla{
+    font-size: 30px;
+    font-weight: 800;
 }
 .add{
     width: 1000px;
@@ -79,7 +82,7 @@ header{
     color: white;
 }
 .riga{
-    margin: 20px 0;
+    margin:0 0 20px ;
 }
 
 
