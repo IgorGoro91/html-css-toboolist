@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* outline: 1px solid black; */
+    line-height: 160%;
+}
+body{
+    background-color: lightgrey;
+    
+}
+
+header{
+    height: 150px;
+    background-color: white;
+}
+.container{
+    padding: 30px 0;
+}
+.nome-logo, .img{
+    font-size: 50px;
+    font-weight: 800;
+    vertical-align: middle
+}
+
+
+.quadrato{
+    width: 1000px;
+    height: 800px;
+    background-color: white;
+    margin: 2px auto 50px;
+    border-radius: 0 0 7px 7px;
+    padding: 20px 50px;
+
+}
+.add{
+    width: 1000px;
+    height: 70px;
+    margin: auto;
+    background-color: white;
+    border-radius: 7px 7px 0 0;
+    margin-top: 50px;
+    padding: 30px;
+        
+}
+.add1{
+    background-color: #47adf1;
+    padding:5px 8px;
+    border-radius: 7px;
+    border: 1px solid gray;
+    color: white;
+}
+.add2{
+    background-color: white;
+    padding:5px 8px;
+    border-radius: 7px;
+    border: 1px solid gray;
+    color: grey;
+}
+.spunta{
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 3px;
+    color: green;
+}
+.ballot{
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 2px;
+    color: red;
+}
+.section1, .section2, .section3{
+    margin: 20px 0 0 0;
+}
+.info{
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 10px;
+    color: white;
+}
+.riga{
+    margin: 20px 0;
+}
+
+
+
+
